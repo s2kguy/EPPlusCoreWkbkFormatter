@@ -1,0 +1,11 @@
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\bin\Debug\netcoreapp2.0\ExcelTool.Dev.deps.json
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\bin\Debug\netcoreapp2.0\ExcelTool.Dev.runtimeconfig.json
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\bin\Debug\netcoreapp2.0\ExcelTool.Dev.runtimeconfig.dev.json
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\bin\Debug\netcoreapp2.0\ExcelTool.Dev.dll
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\bin\Debug\netcoreapp2.0\ExcelTool.Dev.pdb
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.csprojResolveAssemblyReference.cache
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.csproj.CoreCompileInputs.cache
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.AssemblyInfoInputs.cache
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.AssemblyInfo.cs
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.dll
+C:\Users\rblum\source\repos\ExcelTool.Dev\ExcelTool.Dev\obj\Debug\netcoreapp2.0\ExcelTool.Dev.pdb
